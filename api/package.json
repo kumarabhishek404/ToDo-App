@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap-sweetalert": "^1.0.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "knex": "^0.21.3",
+    "morgan": "~1.9.0",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
